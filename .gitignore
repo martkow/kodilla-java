@@ -39,3 +39,6 @@ out/
 ### Nested directories ###
 **/out/
 **/build/
+
+### OS generated files ###
+.DS_Store
